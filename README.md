@@ -6,6 +6,19 @@
 
 ## Another change 
 
-## Add some stuff on github
+## Add some stuff on github again
 
 ## Another change
+
+- List item 1
+- List item 2
+- List item 3
+- List item 4
+
+## Project Contributors
+| Name                                            | Role                 |
+|-------------------------------------------------|----------------------|
+| [Bexidecimal](https://github.com/Bexidecimal)   | Owner/Student        |
+| [azzywazzy](https://github.com/azzywazzy)       | Assistant Instructor |
+| [helenijevans](https://github.com/helenijevans) | Marker |
+
