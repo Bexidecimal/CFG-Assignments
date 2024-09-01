@@ -40,28 +40,28 @@ ________
 Use of git commands in the terminal
 ![Screenshot to show use of git commands in the terminal](./images/git_commands.png)
 Use of markdown language
-![Use of markdown language](./images/Markdown.png)
+![Use of markdown language](./Images/Markdown.png)
 Showing branch log
-![Use of branch log](./images/branch_log.png)
+![Use of branch log](./Images/branch_log.png)
 Checking status with the terminals
-![Checking the status with the terminal](./images/checking_status.png)
+![Checking the status with the terminal](./Images/checking_status.png)
 Commit and push with a meaningful message
-![Commit and push with meaningful message](./images/commitandpush.png)
+![Commit and push with meaningful message](./Images/commitandpush.png)
 Opening a pull request
-![Opening a pull request](./images/open_pull.png)
+![Opening a pull request](./Images/open_pull.png)
 Pull request
-![Pull request](./images/pull_request.png)
+![Pull request](./Images/pull_request.png)
 Pull request 2
-![Pull request 2](./images/Pull_request_two.png)
+![Pull request 2](./Images/Pull_request_two.png)
 Successful Merge into main branch
-![successful merge into the main branch](./images/Successful_merge.png)
+![successful merge into the main branch](./Images/Successful_merge.png)
 
 
 ______________
 ## Project Contributors
-| Name                                            | Role                 |
-|-------------------------------------------------|----------------------|
-| [Bexidecimal](https://github.com/Bexidecimal)   | Owner/Student        |
+| **Name**                                        | Role             |
+|-------------------------------------------------|------------------|
+| [Bexidecimal](https://github.com/Bexidecimal)   | Owner/Student    |
 | [azzywazzy](https://github.com/azzywazzy)       | Assistant Instructor |
-| [helenijevans](https://github.com/helenijevans) | Marker |
+| [helenijevans](https://github.com/helenijevans) | Marker           |
 
