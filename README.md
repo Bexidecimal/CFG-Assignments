@@ -2,8 +2,6 @@
 _______
 This repository is to complete assignments and practice skills for the CFG Software Engineering degree.
 
-For assignment one, I will be demonstrating my knowledge of git and github by completing the assignment set by CFG.
-
 I have joined the CFG degree as I am looking for a career change, after completing a web dev kickstarter a few months ago I am hoping that coding is the right career path for me! 
 I am currently an area manager in the railway, I oversee the running of 2 busy London stations. 
 
@@ -11,6 +9,7 @@ I have one other repository on Github which I have used to upload my project fro
 and create an even better project! 
 
 ### Assignment One
+For assignment one, I will be demonstrating my knowledge of git and github by completing the assignment set by CFG.
 
 I have added explanations for what a .gitignore file and requirements.txt file are for. I have added these explanations 
 within the files themselves. I have shown examples of markdown language. I have also added screenshots below to 
