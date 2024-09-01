@@ -38,7 +38,7 @@ ________
 ### Screenshots for Assignment 1
 
 Use of git commands in the terminal
-![Screenshot to show use of git commands in the terminal](./images/git_commands.png)
+![Screenshot to show use of git commands in the terminal](./Images/git_commands.png)
 Use of markdown language
 ![Use of markdown language](./Images/Markdown.png)
 Showing branch log
