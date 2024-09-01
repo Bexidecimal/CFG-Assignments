@@ -1,20 +1,20 @@
-# CFG-Assignments
+# CFG Assignment 1
+________
+# Examples of Markdown
 
-## This is a large text - a meaningful message 
+## This is a large text
 
-## feature/character_development
+### This is smaller text
 
-## Another change 
+#### This is the smaller text
 
-## Add some stuff on github again
-
-## Another change
 
 - List item 1
 - List item 2
 - List item 3
 - List item 4
 
+______________
 ## Project Contributors
 | Name                                            | Role                 |
 |-------------------------------------------------|----------------------|
