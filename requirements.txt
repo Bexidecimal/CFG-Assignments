@@ -1,0 +1,5 @@
+# A requirements file lists all the required packages that are needed to make a project work.
+# This can include dependencies and packages for exmaple that must be installed, plus what versios are required.
+# Once you have a list of these requirements, you can use a command prompt to do the job for you with pip install.
+# Pip is a package manager for Python, it can install and uninstall Python packages.
+# This means that when you share your project with others, they can make sure they have everythign they need to get going easily.

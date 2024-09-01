@@ -1,4 +1,4 @@
-# CFG Assignment 1
+# CFG Assignments
 _______
 This repository is to complete assignments and practice skills for the CFG Software Engineering degree.
 
@@ -9,14 +9,20 @@ I am currently an area manager in the railway, I oversee the running of 2 busy L
 
 I have one other repository on Github which I have used to upload my project from the webdev kickstarter. I intend to use this repository to practice the principles taught in the degree
 and create an even better project! 
+
+### Assignment One
+
+I have added explanations for what a .gitignore file and requirements.txt file are for. I have added these explanations 
+within the files themselves. I have shown examples of markdown language. I have also added screenshots below to 
+demonstrate my work
 ________
 ## Examples of Markdown
 
-## This is a large text
+## This is a large text - Heading 1
 
-### This is smaller text
+### This is smaller text - Heading 2
 
-#### This is the smaller text
+#### This is the smaller text - Heading 3
 
 ## List Items
 - List item 1
@@ -30,7 +36,7 @@ ________
 
 > blockquote
 ________
-Screenshots for Assignment 1
+### Screenshots for Assignment 1
 
 Use of git commands in the terminal
 ![Screenshot to show use of git commands in the terminal](./images/git_commands.png)
