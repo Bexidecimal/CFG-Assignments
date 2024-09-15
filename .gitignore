@@ -2,6 +2,10 @@
 # For exmaple, anything with sensitive data that should not be shared on github and system specific files. This also allows
 # another level of security
 
+
+secrets
+assignment_two/*_saved_recipes
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
