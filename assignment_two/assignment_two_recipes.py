@@ -1,8 +1,14 @@
 import requests
+# the requests library above allows you to send HTTP requests. The requests library must be installed,
+# installation instructions are in the associated readme file for this project
 import json
+# The json library above is an inbuilt library, which will allow me to convert strings into dictionaries and vice versa.
+# I use the json.dumps to convert a dictionary to a string and json.loads reverses this process. This allows me to write the dictionar
+# to a file as a string and then convert it back again.
+
 
 #The below allows the API key to be stored separately from the main code in a file that will not be uploaded to github.
-file = open("../secrets2", "r")
+file = open("../secrets", "r")
 api_key = file.read()
 file.close()
 
