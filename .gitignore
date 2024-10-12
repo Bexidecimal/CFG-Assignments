@@ -5,6 +5,7 @@
 
 secrets
 assignment_two/*_saved_recipes
+*/config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
