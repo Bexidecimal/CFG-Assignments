@@ -63,3 +63,5 @@ Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!
 $R@i.~~ !     :   ~$$$$$B$$en:``
 ?MXT@Wx.~    :     ~"##*$$$$M~
     \033[0m""")
+
+# I just added these because I thought they were cool! They take up far too much space in the terminal, but I love them so they stay!
